@@ -1,0 +1,16 @@
+  218  git branch
+  219  git push -u origin master
+  220  git switch pt21
+  221  git push origin pt21
+  222  git branch
+  223  git pull
+  224  git merge origin master
+  225  git merge master
+  226  git status
+  227  git switch master
+  228  git pull
+  229  git status
+  230  git switch master
+  231  git add .
+  232  git commit -m "paskutinis commitas"
+  233  git history > history.txt
